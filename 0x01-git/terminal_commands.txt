@@ -1,0 +1,168 @@
+    1  git clone https://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@github.com/wallacetrixie/alx-pre_course
+    2  cd alx-pre_course
+    3  echo 'My first readme' > README.md
+    4  cat README.md
+    5  git config --global user.email "wallacewambulwa@gmail.com"
+    6  git config --global user.name "Wallace Wambulwa"
+    7  git add .
+    8  git push
+    9  mkdir 0x01-git
+   10  clear
+   11  echo 'Another Readme file'>REDME.md
+   12  ls
+   13  rm -r README.md
+   14  cd 0x01-git
+   15  echo 'readme file'>README.md
+   16  git add .
+   17  git commit -m " 0x01-git"
+   18  git push
+   19  clear
+   20  touch c/c_is_fun.c
+   21  mdir c
+   22  mkdir bash
+   23  mkdir js
+   24  touch c/c_is_fun.c
+   25  cd c
+   26  ls
+   27  mkdir c
+   28  touch c/c_is_fun.c
+   29  ls
+   30  cd c
+   31  ls
+   32  cd ..
+   33  touch js/main.js
+   34  touch js/index.js
+   35  ls
+   36  cd js
+   37  ls
+   38  clear
+   39  cd ..
+   40  touch bash/alx
+   41  ls
+   42  cd bash
+   43  ls
+   44  rm -r alx
+   45  cat > alx
+   46  cd ..
+   47  touch bash/school
+   48  cd bash
+   49  ls
+   50  rm -r school
+   51  cat > school
+   52  git add .
+   53  git commit -m “Starting to code today, so cool”
+   54  git commit -m "Starting to code today, so cool"
+   55  git push
+   56  cd ..
+   57  clear
+   58  git add .
+   59  git commit -m "Starting to code today, so cool"
+   60  git push
+   61  clear
+   62  git branch -a
+   63  git branch update_script
+   64  git checkout update_script
+   65  ls
+   66  touch bash/98
+   67  ls
+   68  cd bash
+   69  ls
+   70  vi alx
+   71  cat alx
+   72  cd ..
+   73  cd bash
+   74  ls
+   75  vi school
+   76  cd ..
+   77  add .
+   78  git add .
+   79  git commit -m "My personal work"
+   80  git push
+   81  git push --set-upstream origin update_script
+   82  clear
+   83  git branch -a
+   84  git checkout master
+   85  cd bash
+   86  vi alx
+   87  ls
+   88  vi alx
+   89  cd ..
+   90  rm -r js
+   91  ls
+   92  git add .
+   93  git commit -m "Hot fix"
+   94  git push
+   95  clear
+   96  cd ..
+   97  git pull
+   98  cd 0x01-git
+   99  mkdir up_to_date
+  100  git add .
+  101  git commit -m "How to be up to date in git"
+  102  git push
+  103  ls
+  104  rm -r up_to_date
+  105  touch up_to_date
+  106  clear
+  107  git add .
+  108  git commit -m "How to be up to date in git"
+  109  git push
+  110  git pull
+  111  ls
+  112  cat > up_to_date
+  113  git add .
+  114  git commit -m "How to be up to date in git"
+  115  git push
+  116  clear
+  117  cat>up_to_date
+  118  rm -r up_to_date
+  119  mkdir up_to_date
+  120  cat > up_to_date
+  121  git add .
+  122  git commit -m "How to be up to date in git"
+  123  git push
+  124  rm -r up_to_date
+  125  clear
+  126  touch up_to_date
+  127  ls
+  128  vi up_to_date
+  129  git add .
+  130  git commit -m "How to be up to date in git"
+  131  git push
+  132  clear
+  133  cd ..
+  134  git pull
+  135  cd 0x01-git
+  136  ls
+  137  rm -r up_to_date
+  138  mkdir up_to_date
+  139  branch checkout
+  140  branch -a
+  141  git branch -a
+  142  git add .
+  143  git commit -m "How to be up to date in git"
+  144  git push
+  145  clear
+  146  cd ..
+  147  git pull
+  148  cat README.md
+  149  echo "git pull">up_to_date
+  150  git add .
+  151  git commit -m "How to be up to date in git"
+  152  git push
+  153  ls
+  154  clear
+  155  rm -r README.md
+  156  cd 0x01-git
+  157  ls
+  158  rm -r 0x01-git
+  159  rm -r up_to_date
+  160  echo "git pull">up_to_date
+  161  git add .
+  162  git commit -m "How to be up to date in git"
+  163  git push
+  164  history
+  165  clear
+  166  history >alx terminal commands.txt
+  167  history >alx terminal_commands.txt
+  168  history >terminal_commands.txt
